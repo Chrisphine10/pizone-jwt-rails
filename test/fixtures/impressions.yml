@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  impression: false
+  views: 1
+
+two:
+  impression: false
+  views: 1
